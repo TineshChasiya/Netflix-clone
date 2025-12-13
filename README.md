@@ -74,7 +74,7 @@ Through this project, I learned:
 ## 📸 Screenshots
 
 > ### Home Page
-![Full Page](./screenshots/fullPage.png)
+![Full Page](./screenshot/fullPage.png)
 
 ---
 
