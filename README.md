@@ -74,7 +74,7 @@ Through this project, I learned:
 ## 📸 Screenshots
 
 > ### Home Page
-![Full Page](./screenshots/screenshot_netflix_clone.png)
+![Full Page](./screenshots/fullPage.png)
 
 ---
 
