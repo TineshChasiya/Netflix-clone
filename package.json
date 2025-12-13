@@ -1,7 +1,7 @@
 {
   "name": "netflix-clone",
-  "homepage": "https://github.com/TineshChasiya/Netflix-clone.git",
   "version": "0.1.0",
+  "homepage": "https://TineshChasiya.github.io/Netflix-clone",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
