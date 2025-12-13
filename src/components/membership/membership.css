@@ -1,0 +1,143 @@
+ footer{
+    width: 100%;
+    max-width: 1200px;
+    padding: 20px 30px;
+    margin: 40px auto;
+ }
+
+ .membership{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+ .membership  h5{
+    font-size: 0.99rem;
+    font-weight: 600;
+    margin-bottom: 0;
+    color: white;
+}
+
+ .membership .input-startbtn{
+    width: 700px;
+}
+ .membership .input-startbtn form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+ .membership .input-startbtn form .input-label{
+    position: relative;
+    margin: 16px 0;
+    width: 100%;
+    font-family: sans-serif;
+    padding: 2px;
+    border-radius: 5px;
+}
+ .membership .input-startbtn form .input-label input{
+    width: 100%;
+    padding: 14px 15px;
+    padding-top: 18px;
+    border-radius: 6px;
+    border: 1px solid #444;
+    background: rgba(255, 255, 255, 0.1);
+    color: white;
+    outline: none;
+    font-size: 16px;
+    transition: border .18s ease;
+    box-sizing: border-box;
+}
+
+.input-label:has(input:focus) {
+  border: 1px solid white;
+}
+ .membership .input-startbtn form .input-label label{
+    position: absolute;
+    left: 12px;
+    top: 20px;
+    pointer-events: none;
+    color: #ddd;
+    font-size: 15px;
+    transition: transform .18s ease, font-size .18s ease, top .18s ease, color .18s;
+    transform-origin: left top;
+    background: transparent;
+    padding: 0 4px;
+}
+
+
+
+.input-label input:focus + label {
+    transform: translateY(-60%) scale(0.86);
+    top: 6px;
+    font-size: 13px;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.4);
+    border-radius: 2px;
+}
+
+.input-label input:not(:placeholder-shown) + label {
+    transform: translateY(-60%) scale(0.86);
+    top: 6px;
+    font-size: 13px;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.4);
+    border-radius: 2px;
+}
+
+.input-label input::placeholder {
+    opacity: 0;  
+}
+ .membership .input-startbtn form .startbtn{
+    background-color: rgba(255, 0, 0, 0.9);
+    margin-left: 10px;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    padding: 14px 20px;
+    box-sizing: border-box;
+    transition: all .18s ease;
+} .membership .input-startbtn form .startbtn input[type="submit"]{
+    background: none;
+    outline: none;
+    border: none;
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: #fff;
+}
+ .membership .input-startbtn form .startbtn .hero-right-icon{
+    margin-left: 1rem;
+    font-size: 1.3rem;
+    color: white;
+}
+
+ .membership .input-startbtn form .startbtn:hover{
+    background-color: rgba(255, 0, 0, 0.8);
+}
+
+
+@media (max-width:620px) {
+     .membership .input-startbtn form{
+        flex-direction: column;
+    }
+     .membership .input-startbtn{
+        width: 500px;
+    }
+}
+
+@media (max-width:528px) {
+      .membership .input-startbtn{
+        width: 400px;
+    }
+
+  .membership .input-startbtn form .startbtn input[type="submit"]{
+        font-size: 1rem;
+    }
+}
+
+@media (max-width:416px) {
+     .membership .input-startbtn{
+        width: 300px;
+    }
+}

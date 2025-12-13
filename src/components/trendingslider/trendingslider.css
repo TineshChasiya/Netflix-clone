@@ -1,0 +1,132 @@
+ .container{
+    width: 100%;
+    max-width: 1200px;
+    padding: 20px 20px;
+    margin: 40px auto;
+ }
+
+
+ .heading{
+   color: white;
+   font-weight: 500;
+   margin: 0;
+ }
+
+ .slider-wrapper{
+   padding:35px;
+   position: relative;
+   overflow: hidden;
+   max-width: 1200px;
+   z-index: 1111;
+ }
+
+ .slider{
+   display: flex;
+   gap: 2rem;
+   overflow-x: scroll;
+   padding: 12px 0 11px;
+   scroll-behavior: smooth;
+   scrollbar-width: none;
+
+ }
+  .slider .box{
+   position: relative;
+   width: 100%;
+   height: 100%;
+   transition: all 0.5s ease;
+  }
+
+  .box:hover{
+    transform: scale(1.09);
+    cursor: pointer;
+  }
+
+  .slider .box img{
+   object-fit: cover;
+   border-radius: 10px;
+ }  
+
+ .slider .box .number{
+   position: absolute;
+   color: black;
+   bottom: 0;
+   left: -1rem;
+   font-size: 6rem;
+   -webkit-text-stroke: 2px white;
+   font-weight: 600;
+     font-family: "Bebas Neue", sans-serif;
+ } 
+
+
+.icon{
+    background-color: rgb(52, 49, 49);
+  border-radius: 10px;
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  bottom: 50%;
+  height: 120px;
+  padding: 0 3px;
+  transition: all 2s ease;
+  cursor: pointer;
+  z-index: 111;
+}
+.container.active{
+  background-color: red;
+}
+
+
+.right_icon{
+  color: white;
+  line-height: 120px;
+  font-size: 1.5rem;
+}
+
+.icon:hover{
+  background-color: rgb(116, 109, 109);
+}
+
+.left{
+  background-color: rgb(52, 49, 49);
+  border-radius: 8px;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  bottom: 50%;
+  height: 120px;
+  padding: 0 3px;
+  transition: all 0.5s ease;
+  cursor: pointer;
+  z-index: 111;
+  width: 20px;
+}
+
+.left{
+  color: white;
+  line-height: 120px;
+  font-size: 1.5rem;
+}
+
+.left:hover{
+  background-color: rgb(116, 109, 109);
+}
+
+@media (max-width:1220px) {
+  .container{
+    max-width: 1000px;
+  }
+
+  .box img{
+    width: 130px;
+    height: 180px;
+  }
+}
+
+@media (max-width:900px) {
+  .box img{
+    width: 100px;
+    height: 150px;
+  }
+}

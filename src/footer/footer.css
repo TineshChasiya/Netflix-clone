@@ -1,0 +1,67 @@
+footer{
+    width: 100%;
+    max-width: 1200px;
+    margin: 2rem auto;
+    padding: 20px 30px;
+}
+
+footer .call{
+    color: lightgray;
+    margin-top: 2rem;
+}
+
+.call span{
+    letter-spacing: 1px;
+    font-weight: 500;
+}
+
+.call span a{
+        color: lightgray;
+}
+
+.links{
+    margin-bottom: 3rem;
+}
+
+.links ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0;
+}
+
+.links ul li a{
+    display: block;
+    margin-bottom: 20px;
+    color: lightgray;
+}
+
+.indiatext{
+    margin-top: 2rem;
+}
+
+.indiatext span{
+    color: lightgray;
+}
+
+.recaptcha{
+    margin-top: 2rem;
+}
+
+.recaptcha span{ 
+    color:darkgrey;
+    font-size: 0.8rem;
+}
+
+.recaptcha span a{
+    color: rgb(14, 48, 123);
+    font-size: 0.9rem;
+}
+
+@media (max-width:750px) {
+    .links ul {
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }
+}
