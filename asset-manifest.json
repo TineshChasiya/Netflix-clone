@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/TineshChasiya/Netflix-clone.git/static/css/main.3b9ed8f1.css",
-    "main.js": "/TineshChasiya/Netflix-clone.git/static/js/main.09ba388b.js",
-    "static/js/453.c10d28cd.chunk.js": "/TineshChasiya/Netflix-clone.git/static/js/453.c10d28cd.chunk.js",
-    "static/media/kids.png": "/TineshChasiya/Netflix-clone.git/static/media/kids.3ec75214e7f33796d74a.png",
-    "static/media/tv.png": "/TineshChasiya/Netflix-clone.git/static/media/tv.3603e2a754a60437c6bc.png",
-    "static/media/watch.png": "/TineshChasiya/Netflix-clone.git/static/media/watch.7b85b95db9e1f438bdfa.png",
-    "static/media/download.png": "/TineshChasiya/Netflix-clone.git/static/media/download.a6c3c0c76c322ad854d2.png",
-    "static/media/hero-img.jpg": "/TineshChasiya/Netflix-clone.git/static/media/hero-img.4aa7405ca35dbf53101f.jpg",
-    "static/media/sunnySanskariTulsiKumari.jpg": "/TineshChasiya/Netflix-clone.git/static/media/sunnySanskariTulsiKumari.f5c613d221167f9278d0.jpg",
-    "static/media/dude.jpg": "/TineshChasiya/Netflix-clone.git/static/media/dude.15ca9463f31334b23a51.jpg",
-    "static/media/jolly_llb_3.jpg": "/TineshChasiya/Netflix-clone.git/static/media/jolly_llb_3.8c6ca6f55af9db4e36b5.jpg",
-    "static/media/bison.jpg": "/TineshChasiya/Netflix-clone.git/static/media/bison.e31d5f844cdd9a75752f.jpg",
-    "static/media/delhi_crime.jpg": "/TineshChasiya/Netflix-clone.git/static/media/delhi_crime.2d7ab9f53b92b798b269.jpg",
-    "static/media/saiyaara.jpg": "/TineshChasiya/Netflix-clone.git/static/media/saiyaara.a83092ef9311ad3304b8.jpg",
-    "static/media/mahaavatar_narsimha.jpg": "/TineshChasiya/Netflix-clone.git/static/media/mahaavatar_narsimha.93a99e0b8ea0f2ec34b3.jpg",
-    "static/media/idli_kadai.jpg": "/TineshChasiya/Netflix-clone.git/static/media/idli_kadai.69149e22335863ae7987.jpg",
-    "static/media/logo.svg": "/TineshChasiya/Netflix-clone.git/static/media/logo.0bec8804e985ec69585b13b6856478b1.svg",
-    "index.html": "/TineshChasiya/Netflix-clone.git/index.html",
-    "main.3b9ed8f1.css.map": "/TineshChasiya/Netflix-clone.git/static/css/main.3b9ed8f1.css.map",
-    "main.09ba388b.js.map": "/TineshChasiya/Netflix-clone.git/static/js/main.09ba388b.js.map",
-    "453.c10d28cd.chunk.js.map": "/TineshChasiya/Netflix-clone.git/static/js/453.c10d28cd.chunk.js.map"
+    "main.css": "/Netflix-clone/static/css/main.3b9ed8f1.css",
+    "main.js": "/Netflix-clone/static/js/main.757a3360.js",
+    "static/js/453.c10d28cd.chunk.js": "/Netflix-clone/static/js/453.c10d28cd.chunk.js",
+    "static/media/kids.png": "/Netflix-clone/static/media/kids.3ec75214e7f33796d74a.png",
+    "static/media/tv.png": "/Netflix-clone/static/media/tv.3603e2a754a60437c6bc.png",
+    "static/media/watch.png": "/Netflix-clone/static/media/watch.7b85b95db9e1f438bdfa.png",
+    "static/media/download.png": "/Netflix-clone/static/media/download.a6c3c0c76c322ad854d2.png",
+    "static/media/hero-img.jpg": "/Netflix-clone/static/media/hero-img.4aa7405ca35dbf53101f.jpg",
+    "static/media/sunnySanskariTulsiKumari.jpg": "/Netflix-clone/static/media/sunnySanskariTulsiKumari.f5c613d221167f9278d0.jpg",
+    "static/media/dude.jpg": "/Netflix-clone/static/media/dude.15ca9463f31334b23a51.jpg",
+    "static/media/jolly_llb_3.jpg": "/Netflix-clone/static/media/jolly_llb_3.8c6ca6f55af9db4e36b5.jpg",
+    "static/media/bison.jpg": "/Netflix-clone/static/media/bison.e31d5f844cdd9a75752f.jpg",
+    "static/media/delhi_crime.jpg": "/Netflix-clone/static/media/delhi_crime.2d7ab9f53b92b798b269.jpg",
+    "static/media/saiyaara.jpg": "/Netflix-clone/static/media/saiyaara.a83092ef9311ad3304b8.jpg",
+    "static/media/mahaavatar_narsimha.jpg": "/Netflix-clone/static/media/mahaavatar_narsimha.93a99e0b8ea0f2ec34b3.jpg",
+    "static/media/idli_kadai.jpg": "/Netflix-clone/static/media/idli_kadai.69149e22335863ae7987.jpg",
+    "static/media/logo.svg": "/Netflix-clone/static/media/logo.0bec8804e985ec69585b13b6856478b1.svg",
+    "index.html": "/Netflix-clone/index.html",
+    "main.3b9ed8f1.css.map": "/Netflix-clone/static/css/main.3b9ed8f1.css.map",
+    "main.757a3360.js.map": "/Netflix-clone/static/js/main.757a3360.js.map",
+    "453.c10d28cd.chunk.js.map": "/Netflix-clone/static/js/453.c10d28cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b9ed8f1.css",
-    "static/js/main.09ba388b.js"
+    "static/js/main.757a3360.js"
   ]
 }
