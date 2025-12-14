@@ -6,7 +6,7 @@ A responsive Netflix landing page clone built using **React.js**. This project f
 
 ## 🚀 Live Preview
 
-> 
+> https://tineshchasiya.github.io/Netflix-clone/
 
 ---
 
