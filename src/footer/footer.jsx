@@ -37,7 +37,7 @@ function Footer() {
                 </li>
             </ul>
          </div>
-         <LangSign/>
+         <LangSign />
          <div className="indiatext"><span>Netflix India</span></div>
          <div className="recaptcha">
             <span>This page is protected by Google reCAPTCHA to ensure you're not a bot. <a href="#">Learn more.</a></span>

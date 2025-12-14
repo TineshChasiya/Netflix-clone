@@ -58,7 +58,12 @@
         display: none;
     }
 
+
+     .hero-section header .langSign{
+        box-sizing: border-box;
+     }
+
     .hero-section header .langSign .custom-dropdown{
-        width: 30px;
+        width: 65px;
     }
 }
