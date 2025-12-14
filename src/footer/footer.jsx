@@ -1,7 +1,7 @@
 import React from 'react'
 import "./footer.css"
-import Membership from './components/membership/membership'
-import LangSign from './components/langSign/langSign'
+import Membership from '../components/membership/membership'
+import LangSign from '../components/langSign/langSign'
 
 function Footer() {
   return (
